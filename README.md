@@ -1,7 +1,7 @@
 ## ArrayToInt
 Java code to convert an integer array to integer e.g {1,2,4,5} to 1245
 
-I had a hard time figuring this out :-)
+I had a hard time figuring this out :smile:
 So I chose to share my solution
 
 ## The magic?
